@@ -1,0 +1,7 @@
+/* These custom styles extend the DITA Open Toolkit default styles */
+
+body {
+color: red;
+  text-align: center;
+font-style: italic;
+}
